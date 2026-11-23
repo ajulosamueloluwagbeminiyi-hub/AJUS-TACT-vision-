@@ -1,4 +1,4 @@
-# Ajus Tacts — Flutter starter app
+Ajus Tacts — Flutter starter app
 
 A cross-platform football learning app starter for Android and iOS, using Flutter and Firebase Authentication. It includes email/password registration and sign-in, a dashboard, introductory tactical lessons, football-law explainers and coach biographies.
 
